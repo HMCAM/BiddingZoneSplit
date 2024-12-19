@@ -12,7 +12,7 @@ logging:
 
 private: 
   keys: 
-    entsoe_api: "c5ca331b-893c-488a-9d8b-7d8405df2981"
+    entsoe_api: ""
 
 remote:
   ssh: ""
